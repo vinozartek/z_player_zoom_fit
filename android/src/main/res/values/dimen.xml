@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    resources>
+    <dimen name="popup_width">@dimen/_200sdp</dimen>
+    <dimen name="popup_height">@dimen/_220sdp</dimen>
+</resources>
